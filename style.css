@@ -19,7 +19,7 @@ body {
 /* Desktop Styles (75% width) */
 @media (min-width: 992px) { /* Adjust breakpoint if needed */
     .container {
-        width: 75%;
+        width: 70%;
         max-width: none; /* Override max-width on larger screens */
     }
 }
