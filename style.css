@@ -8,12 +8,30 @@ body {
 }
 
 .container {
-    max-width: 90%; /* Adjust as needed */
+    max-width: 960px; /* Adjust as needed */
     margin: 20px auto; /* Center the content */
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
     border-radius: 8px; /* Rounded corners */
+}
+
+/* Desktop Styles (75% width) */
+@media (min-width: 992px) { /* Adjust breakpoint if needed */
+    .container {
+        width: 75%;
+        max-width: none; /* Override max-width on larger screens */
+    }
+}
+
+/* Tablet and Mobile Styles (Full width) */
+@media (max-width: 991px) { /* Adjust breakpoint to match desktop media query */
+    .container {
+        width: 95%; /* Use 95% to leave some margin on the sides */
+        max-width: none;
+        margin: 10px auto; /* Reduced margin */
+        padding: 10px;
+    }
 }
 
 header {
