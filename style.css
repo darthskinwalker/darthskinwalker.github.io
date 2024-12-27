@@ -23,8 +23,8 @@ body {
 }
 
 .profile-image {
-    max-width: 300px; /* Set a maximum width for the image */
-    height: auto;
+    max-width: 30px; /* Set a maximum width for the image */
+    height: 50px;
     border-radius: 8px; /* Optional: Rounded corners for the image */
 }
 
