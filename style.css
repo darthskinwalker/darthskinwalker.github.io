@@ -11,9 +11,9 @@ body {
     max-width: 960px; /* Still have a max-width for very large screens */
     margin: 20px auto;
     padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
+    background-color: #f4f4f4;
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;*/
 }
 
 /* Desktop Styles (75% width) */
