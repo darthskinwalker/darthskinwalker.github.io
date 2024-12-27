@@ -8,8 +8,8 @@ body {
 }
 
 .container {
-    max-width: 960px; /* Adjust as needed */
-    margin: 5% 20%; /* Center the content */
+    max-width: 100%; /* Adjust as needed */
+    margin: 10px 10%; /* Center the content */
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
