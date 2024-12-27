@@ -24,15 +24,7 @@ body {
     }
 }
 
-/* Tablet and Mobile Styles (Full width) */
-@media (max-width: 991px) { /* Adjust breakpoint to match desktop media query */
-    .container {
-        width: 95%; /* Use 95% to leave some margin on the sides */
-        max-width: none;
-        margin: 10px auto; /* Reduced margin */
-        padding: 10px;
-    }
-}
+
 
 header {
     text-align: center;
