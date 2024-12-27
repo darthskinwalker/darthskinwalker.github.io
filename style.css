@@ -8,7 +8,7 @@ body {
 }
 
 .container {
-    max-width: 100%; /* Adjust as needed */
+    max-width: 960px; /* Adjust as needed */
     margin: 10px 20%; /* Center the content */
     padding: 20px;
     background-color: #fff;
