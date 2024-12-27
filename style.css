@@ -16,13 +16,7 @@ body {
     border-radius: 8px; /* Rounded corners */
 }
 
-/* Desktop Styles (75% width) */
-@media (min-width: 992px) { /* Adjust breakpoint if needed */
-    .container {
-        width: 75%;
-        max-width: none; /* Override max-width on larger screens */
-    }
-}
+
 
 
 
