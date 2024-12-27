@@ -1,6 +1,6 @@
 /* style.css */
 body {
-    font-family: Nunito;
+    font-family: 'Nunito';
     margin: 0;
     padding: 0;
     background-color: #f4f4f4; /* Light background */
@@ -8,8 +8,8 @@ body {
 }
 
 .container {
-    max-width: 960px; /* Adjust as needed */
-    margin: 20px auto; /* Center the content */
+    max-width: 80%; /* Adjust as needed */
+    margin: 20% auto; /* Center the content */
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
